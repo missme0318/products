@@ -56,3 +56,5 @@ def main():
 	write_file('products.csv', products)
 
 main() #程式進入點
+
+# refactor重構程式 = 用function將結構整理好的專用術語
