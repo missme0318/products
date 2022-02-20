@@ -18,3 +18,7 @@ print(products)
 # products[大清單][小清單]
 products[0][0] 	# = 第一個商品
 products[0][1] 	# = 第一個價格
+
+
+for product in products:
+	print(product[0], '價格是：', product[1], '元')
