@@ -9,6 +9,7 @@ while True:
 	# p.append(name)
 	# p.append(price)
 	# products.append(p)
+	# 上面四行可以用下面這行替代
 	products.append([name, price])
 print(products)
 
